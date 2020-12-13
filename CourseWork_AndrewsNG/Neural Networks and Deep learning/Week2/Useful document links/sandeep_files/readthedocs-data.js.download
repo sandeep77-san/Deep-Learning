@@ -1,0 +1,20 @@
+var READTHEDOCS_DATA = {
+    project: "jupyterlab",
+    version: "stable",
+    language: "en",
+    programming_language: "js",
+    subprojects: {},
+    canonical_url: "https://jupyterlab.readthedocs.io/en/stable/",
+    theme: "sphinx_rtd_theme",
+    builder: "sphinx",
+    docroot: "/docs/source/",
+    source_suffix: ".rst",
+    api_host: "https://readthedocs.org",
+    proxied_api_host: "https://readthedocs.org",
+    commit: "6a7188f6",
+    ad_free: false,
+
+    global_analytics_code: "UA-17997319-1",
+    user_analytics_code: null
+};
+

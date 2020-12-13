@@ -1,0 +1,5 @@
+Numpy - https://docs.scipy.org/doc/numpy-1.10.1/reference/generated/numpy.exp.html
+
+broad cast - https://docs.scipy.org/doc/numpy/user/basics.broadcasting.html
+
+Neural Nw wild ML - http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
